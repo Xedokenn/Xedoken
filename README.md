@@ -28,6 +28,6 @@ I'm an 17 year old polish computer science student
 ## I also used these languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=lua,mysql,powershell,php,linux,wordpress" />
+    <img src="https://skillicons.dev/icons?i=lua,mysql,powershell,php,wordpress" />
   </a>
 </p>
