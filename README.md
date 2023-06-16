@@ -11,6 +11,13 @@ I'm an 17 year old polish computer science student
 **Currently working on:**
 - A project in C++
 
+### What i use
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,blender,atom,discord,bots,git,github,godot,gtk,unreal,unity,visualstudio,vscode,wordpress" />
+  </a>
+</p>
+
 ### My language skills
 <p align="center">
   <a href="https://skillicons.dev">
@@ -22,12 +29,5 @@ I'm an 17 year old polish computer science student
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=lua,mysql,powershell,php,linux,wordpress" />
-  </a>
-</p>
-
-### What i use
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,blender,atom,discord,bots,git,github,godot,gtk,unreal,unity,visualstudio,vscode,wordpress" />
   </a>
 </p>
