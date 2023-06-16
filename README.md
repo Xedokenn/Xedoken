@@ -14,7 +14,7 @@ I'm an 17 year old polish computer science student
 ### What i use
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,blender,atom,discord,bots,git,github,godot,gtk,unreal,unity,visualstudio,vscode,wordpress" />
+    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,blender,atom,discord,bots,git,github,godot,gtk,unreal,unity,visualstudio,vscode," />
   </a>
 </p>
 
