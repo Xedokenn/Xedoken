@@ -9,7 +9,8 @@ I'm an 18 year old polish computer science student
 - UI Design 
 
 **Currently working on:**
-- A project in C++
+- VelocidroneQoL (mod for velocidrone)
+- DeathMode (mod for liftoff)
 
 ### What i use
 <p align="center">
