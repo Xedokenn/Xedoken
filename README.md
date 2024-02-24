@@ -1,5 +1,5 @@
 ## Hi! 👋  I'm Jakub
-I'm an 18 year old polish computer science student
+I'm an computer science student
 
 
 **I’m currently learning:** 
