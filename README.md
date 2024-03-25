@@ -6,11 +6,9 @@ I'm an computer science student
 - Front-end web development in:
   - HTML CSS and JavaScript
 - Python and C++ for applications
-- UI Design 
 
 **Currently working on:**
-- VelocidroneQoL (mod for velocidrone)
-- DeathMode (mod for liftoff)
+- VelocidroneQoL (quality of life mod for fpv simulator called velocidrone)
 
 ### What i use
 <p align="center">
